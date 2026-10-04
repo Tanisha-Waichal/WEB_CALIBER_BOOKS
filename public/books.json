@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "publishedYear": 1960,
+    "description": "A gripping tale of racial injustice and childhood innocence in the American South."
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "publishedYear": 1949,
+    "description": "A haunting novel about totalitarianism and surveillance in a dark future."
+  },
+  {
+    "id": 3,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "publishedYear": 1813,
+    "description": "A witty exploration of love, marriage, and social class in Georgian England."
+  },
+  {
+    "id": 4,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fiction",
+    "publishedYear": 1925,
+    "description": "An iconic tale of wealth, love, and the American Dream in the Jazz Age."
+  },
+  {
+    "id": 5,
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "genre": "Romance",
+    "publishedYear": 1847,
+    "description": "A passionate story of love, independence, and self-discovery."
+  },
+  {
+    "id": 6,
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "genre": "Gothic",
+    "publishedYear": 1848,
+    "description": "A dark and intense romance set on the Yorkshire moors."
+  },
+  {
+    "id": 7,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "publishedYear": 1951,
+    "description": "A controversial coming-of-age novel narrated by the disillusioned Holden Caulfield."
+  },
+  {
+    "id": 8,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Dystopian",
+    "publishedYear": 1932,
+    "description": "A chilling vision of a future society controlled by science and pleasure."
+  },
+  {
+    "id": 9,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "publishedYear": 1937,
+    "description": "An adventure tale of a reluctant hobbit on an epic quest."
+  },
+  {
+    "id": 10,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "publishedYear": 1954,
+    "description": "An epic fantasy saga of magic, heroism, and the battle against evil."
+  },
+  {
+    "id": 11,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genre": "Science Fiction",
+    "publishedYear": 1965,
+    "description": "A complex science fiction epic set on a desert planet with political intrigue."
+  },
+  {
+    "id": 12,
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "genre": "Science Fiction",
+    "publishedYear": 1951,
+    "description": "A groundbreaking series about the fall and rise of galactic civilization."
+  },
+  {
+    "id": 13,
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "genre": "Adventure",
+    "publishedYear": 1851,
+    "description": "An epic tale of obsession and the hunt for a legendary white whale."
+  },
+  {
+    "id": 14,
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "publishedYear": 1892,
+    "description": "Classic detective stories featuring the brilliant investigator Sherlock Holmes."
+  },
+  {
+    "id": 15,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Fiction",
+    "publishedYear": 1866,
+    "description": "A psychological thriller exploring guilt, redemption, and morality."
+  },
+  {
+    "id": 16,
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": "Gothic",
+    "publishedYear": 1890,
+    "description": "A dark tale of beauty, corruption, and the costs of vanity."
+  },
+  {
+    "id": 17,
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "genre": "Fiction",
+    "publishedYear": 1877,
+    "description": "A grand novel about love, family, and society in 19th-century Russia."
+  },
+  {
+    "id": 18,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "genre": "Historical Fiction",
+    "publishedYear": 1869,
+    "description": "An epic historical novel set during the Napoleonic Wars."
+  },
+  {
+    "id": 19,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "genre": "Epic",
+    "publishedYear": -800,
+    "description": "An ancient epic poem about a hero's long journey home from Troy."
+  },
+  {
+    "id": 20,
+    "title": "The Iliad",
+    "author": "Homer",
+    "genre": "Epic",
+    "publishedYear": -800,
+    "description": "An ancient epic poem about the Trojan War and heroic battles."
+  },
+  {
+    "id": 21,
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "genre": "Magical Realism",
+    "publishedYear": 1967,
+    "description": "A masterpiece of magical realism about a family across generations."
+  },
+  {
+    "id": 22,
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "genre": "Fiction",
+    "publishedYear": 1939,
+    "description": "A powerful story of migrant workers during the Great Depression."
+  },
+  {
+    "id": 23,
+    "title": "Invisible Man",
+    "author": "Ralph Ellison",
+    "genre": "Fiction",
+    "publishedYear": 1952,
+    "description": "A profound exploration of identity, race, and invisibility in America."
+  },
+  {
+    "id": 24,
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "genre": "Dystopian",
+    "publishedYear": 1985,
+    "description": "A chilling dystopian novel about a patriarchal theocratic state."
+  },
+  {
+    "id": 25,
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "genre": "Fiction",
+    "publishedYear": 1988,
+    "description": "A haunting novel about slavery and its psychological effects on survivors."
+  },
+  {
+    "id": 26,
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "genre": "Historical Fiction",
+    "publishedYear": 2005,
+    "description": "A moving story about a girl and a man who share a love of books in Nazi Germany."
+  },
+  {
+    "id": 27,
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "genre": "Fantasy",
+    "publishedYear": 2020,
+    "description": "A contemporary fantasy about exploring alternate versions of one's life."
+  },
+  {
+    "id": 28,
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "genre": "Mythology",
+    "publishedYear": 2018,
+    "description": "A fresh retelling of the goddess Circe's story from Greek mythology."
+  },
+  {
+    "id": 29,
+    "title": "The Song of Achilles",
+    "author": "Madeline Miller",
+    "genre": "Mythology",
+    "publishedYear": 2011,
+    "description": "A reimagining of the Trojan War told through Achilles' companion Patroclus."
+  },
+  {
+    "id": 30,
+    "title": "Six of Crows",
+    "author": "Leigh Bardugo",
+    "genre": "Fantasy",
+    "publishedYear": 2015,
+    "description": "A heist fantasy following a crew of misfits in a magical city."
+  },
+  {
+    "id": 31,
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "genre": "Fantasy",
+    "publishedYear": 2007,
+    "description": "A captivating fantasy about a legendary figure recounting his past."
+  },
+  {
+    "id": 32,
+    "title": "Mistborn",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "publishedYear": 2006,
+    "description": "An epic fantasy about a street urchin who discovers magical powers."
+  },
+  {
+    "id": 33,
+    "title": "The Way of Kings",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "publishedYear": 2010,
+    "description": "An epic high fantasy with intricate world-building and multiple POVs."
+  },
+  {
+    "id": 34,
+    "title": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "genre": "Fantasy",
+    "publishedYear": 1996,
+    "description": "A complex political fantasy with multiple characters and plot lines."
+  },
+  {
+    "id": 35,
+    "title": "The Poppy War",
+    "author": "R.F. Kuang",
+    "genre": "Fantasy",
+    "publishedYear": 2018,
+    "description": "A dark fantasy inspired by Chinese history with shamanic magic."
+  },
+  {
+    "id": 36,
+    "title": "Red Rising",
+    "author": "Pierce Brown",
+    "genre": "Science Fiction",
+    "publishedYear": 2014,
+    "description": "A sci-fi thriller about a lowborn infiltrating an elite military academy."
+  },
+  {
+    "id": 37,
+    "title": "The Expanse: Leviathan Wakes",
+    "author": "James S.A. Corey",
+    "genre": "Science Fiction",
+    "publishedYear": 2011,
+    "description": "A space opera with political intrigue across the solar system."
+  },
+  {
+    "id": 38,
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "genre": "Cyberpunk",
+    "publishedYear": 1984,
+    "description": "A seminal cyberpunk novel about hackers and artificial intelligence."
+  },
+  {
+    "id": 39,
+    "title": "Snow Crash",
+    "author": "Neal Stephenson",
+    "genre": "Cyberpunk",
+    "publishedYear": 1992,
+    "description": "A fast-paced cyberpunk adventure set in a virtual reality metaverse."
+  },
+  {
+    "id": 40,
+    "title": "Ender's Game",
+    "author": "Orson Scott Card",
+    "genre": "Science Fiction",
+    "publishedYear": 1985,
+    "description": "A thought-provoking sci-fi novel about a gifted child warrior in space."
+  },
+  {
+    "id": 41,
+    "title": "The Left Hand of Darkness",
+    "author": "Ursula K. Le Guin",
+    "genre": "Science Fiction",
+    "publishedYear": 1969,
+    "description": "A groundbreaking sci-fi exploring gender and society on an alien world."
+  },
+  {
+    "id": 42,
+    "title": "Hyperion",
+    "author": "Dan Simmons",
+    "genre": "Science Fiction",
+    "publishedYear": 1989,
+    "description": "An epic space opera structured like Canterbury Tales with AI and time travel."
+  },
+  {
+    "id": 43,
+    "title": "The Three-Body Problem",
+    "author": "Liu Cixin",
+    "genre": "Science Fiction",
+    "publishedYear": 2008,
+    "description": "A hard sci-fi epic about humanity's first contact with an alien civilization."
+  },
+  {
+    "id": 44,
+    "title": "Permutation City",
+    "author": "Greg Egan",
+    "genre": "Science Fiction",
+    "publishedYear": 1994,
+    "description": "A mind-bending sci-fi about digital consciousness and simulated reality."
+  },
+  {
+    "id": 45,
+    "title": "Altered Carbon",
+    "author": "Richard K. Morgan",
+    "genre": "Cyberpunk",
+    "publishedYear": 2002,
+    "description": "A noir cyberpunk thriller with consciousness transfer technology."
+  },
+  {
+    "id": 46,
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "genre": "Science Fiction",
+    "publishedYear": 2011,
+    "description": "A gripping survival story of an astronaut stranded on Mars."
+  },
+  {
+    "id": 47,
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "genre": "Science Fiction",
+    "publishedYear": 2021,
+    "description": "An optimistic sci-fi adventure about saving Earth from an extinction event."
+  },
+  {
+    "id": 48,
+    "title": "The Goblin Emperor",
+    "author": "Katherine Addison",
+    "genre": "Fantasy",
+    "publishedYear": 2014,
+    "description": "A heartwarming fantasy about a half-goblin unexpectedly inheriting an empire."
+  },
+  {
+    "id": 49,
+    "title": "Howl's Moving Castle",
+    "author": "Diana Wynne Jones",
+    "genre": "Fantasy",
+    "publishedYear": 1986,
+    "description": "A charming fantasy adventure with magic, witches, and a mysterious castle."
+  },
+  {
+    "id": 50,
+    "title": "American Gods",
+    "author": "Neil Gaiman",
+    "genre": "Fantasy",
+    "publishedYear": 2001,
+    "description": "A modern fantasy blending American mythology with contemporary culture."
+  }
+]

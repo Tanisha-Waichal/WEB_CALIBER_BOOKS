@@ -20,6 +20,7 @@ function App() {
         setLoading(true)
         const response = await axios.get('/books.json')
         const books = Array.isArray(response.data) ? response.data : response.data.data || response.data
+        console.log('Books fetched:', books)
         setData(books)
         setError('')
       } catch (err) {
@@ -185,8 +186,8 @@ function App() {
             ) : currentBooks.length > 0 ? (
               <>
                 <div className="books-grid">
-                  {currentBooks.map((book) => (
-                    <article key={book.id || book.title} className="book-card">
+                  {currentBooks.map((book, index) => (
+                    <article key={`${book.id}-${index}`} className="book-card">
                       <div className="card-top-bar" />
                       <span className="genre-badge">{book.genre || 'General'}</span>
                       <h3 className="book-title">{book.title}</h3>
@@ -216,7 +217,7 @@ function App() {
                       <div className="page-numbers">
                         {getPageNumbers().map((page) => (
                           <button
-                            key={page}
+                            key={`page-${page}`}
                             type="button"
                             className={`page-btn ${currentPage === page ? 'active' : ''}`}
                             onClick={() => handlePageChange(page)}

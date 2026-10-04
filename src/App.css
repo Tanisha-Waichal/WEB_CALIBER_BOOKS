@@ -712,3 +712,50 @@ img {
     padding: 20px 16px;
   }
 }
+
+.book-card:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--shadow-lg);
+  border-color: rgba(37, 99, 235, 0.3);
+}
+
+.book-card {
+  width: 100%;
+  max-width: 420px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  border-radius: 18px;
+  background: #f3f4f6;
+  box-shadow: 0 8px 18px rgba(0,0,0,0.06);
+}
+
+.book-cover {
+  display: block;
+  width: 180px;
+  height: 240px;
+  object-fit: cover;
+  margin: 0 auto 16px;
+  border-radius: 12px;
+}
+
+.book-meta {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.book-image-wrap {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.genres-badge {
+  display: inline-block;
+  margin: 0 auto 12px;
+}

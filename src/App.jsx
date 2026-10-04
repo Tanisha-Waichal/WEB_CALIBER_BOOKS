@@ -19,7 +19,8 @@ function App() {
       try {
         setLoading(true)
         const response = await axios.get('/books.json')
-        setData(response.data || [])
+        const books = Array.isArray(response.data) ? response.data : response.data.data || response.data
+        setData(books)
         setError('')
       } catch (err) {
         console.error('Error fetching books:', err)
